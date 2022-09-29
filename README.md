@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaridBouakline
-- 👀 I’m interested in new technology and try to test things on my own. This githubAccount will allow to strucuture up the project I work on
+- 👀 I’m interested in new technology and try to test things on my own. This githubAccount will allow me to strucuture up the project I work on
 - 🌱 I do code in  R and python but not restricted myself on particular lanuage
 - 💞️ I’m looking to collaborate on scientific project .... depending on my mood
 
